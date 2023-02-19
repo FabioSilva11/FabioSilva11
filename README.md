@@ -53,7 +53,7 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 ## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11l&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
@@ -61,6 +61,6 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=aplicativo mobile&theme=radical)](https://github.com/FabioSilva11/incrysy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
