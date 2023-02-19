@@ -33,7 +33,7 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
  
 [![Fabio Silva Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiosilva11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosilva11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Conheça meu trabalho em outras redes..
@@ -53,14 +53,14 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 ## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11l&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
