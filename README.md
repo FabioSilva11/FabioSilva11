@@ -37,30 +37,15 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 
 ## Conheça meu trabalho em outras redes..
-[<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>](https://www.youtube.com/c/ResumodoSucesso)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/iuryrosal/)
-[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@iuryrosal)
-[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='youtube' height='30'>](https://dev.to/iuryrosal)
+[<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>]()
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>]()
+[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>]()
+[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='youtube' height='30'>]()
 
 ## Últimos vídeos do Youtube (somente em português)
 <!-- BLOG-POST-LIST:START -->
-- [Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]](https://www.youtube.com/watch?v=ZCrwGHMe28c)
-- [Você precisa de faculdade para ser profissional de TI](https://www.youtube.com/watch?v=EvkGzXw5kkM)
-- [Mesa Redonda: Mercado e Área de Dados &lpar;DataPeste&rpar;](https://www.youtube.com/watch?v=4hmVh1X7QZg)
-- [Padrões de Projeto: Singleton | Projetos em Python para Iniciantes [C4]](https://www.youtube.com/watch?v=TPxlrJQAF7w)
-- [TCC | Fatores que impactam no tempo de solução dos bugs em projetos de software livre](https://www.youtube.com/watch?v=-pCtmTWF5Ek)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositórios principais
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=COLORON-GAME&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=aplicativo mobile&theme=radical)](https://github.com/FabioSilva11/incrysy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
