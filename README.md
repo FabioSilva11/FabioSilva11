@@ -31,9 +31,9 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
  
  
  
-[![Fabio Silva Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iuryrohsal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabio Silva Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiosilva11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryhrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Conheça meu trabalho em outras redes..
