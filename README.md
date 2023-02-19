@@ -53,7 +53,7 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 ## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioSilva11&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=COLORON-GAME&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
