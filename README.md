@@ -48,7 +48,5 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 ## Repositórios principais
 <!-- BLOG-POST-LIST:START -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github.com/FabioSilva11/IDE-UI-DESIGNER
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=github-readme-stats)](https://github.com/FabioSilva11/IDE-UI-DESIGNER/github-readme-stats)
 <!-- BLOG-POST-LIST:END -->
