@@ -29,18 +29,18 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
  - 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento
  - 😄 Pronomes: Ele/Ele.
  
-[![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabio Silva Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Meet my work on other networks..
+## Conheça meu trabalho em outras redes..
 [<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube' height='30'>](https://www.youtube.com/c/ResumodoSucesso)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/iuryrosal/)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@iuryrosal)
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='youtube' height='30'>](https://dev.to/iuryrosal)
 
-## Latest Youtube Videos (Portuguese only)
+## Últimos vídeos do Youtube (somente em português)
 <!-- BLOG-POST-LIST:START -->
 - [Padrões de Projeto: Adapter | Projetos em Python para Iniciantes [C5]](https://www.youtube.com/watch?v=ZCrwGHMe28c)
 - [Você precisa de faculdade para ser profissional de TI](https://www.youtube.com/watch?v=EvkGzXw5kkM)
@@ -49,9 +49,9 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 - [TCC | Fatores que impactam no tempo de solução dos bugs em projetos de software livre](https://www.youtube.com/watch?v=-pCtmTWF5Ek)
 <!-- BLOG-POST-LIST:END -->
 
-## Core Repositories
+## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=automated-ingestion-data&theme=radical)](https://github.com/iuryrosal/automated-ingestion-data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=automated-ingestion-data&theme=radical)](https://github.com/FabioSilva11/COLORON-GAME)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
 
