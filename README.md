@@ -1,34 +1,34 @@
-<h1 align="center">Iury Rosal</h1>
-<h3 align="center">Data & Analytics Engineer</h3>
+<h1 align="center">fabio silva</h1>
+<h3 align="center">progrmador iniciante</h3>
 
 <p align="center">
-  <img src="https://github.com/iuryrosal/iuryrosal/blob/main/images/BannerGitHub.png" alt="Banner's Iury"/>
+  <img src="https://github.com/FabioSilva11/FabioSilva11/blob/main/images/BannerGitHub.jpg" alt="Banner's Iury"/>
 </p>
 
 
-I'm a software engineer passionate about the world of Data Science and Data Engineering. I have more than 4 years of working experience using different technologies in several contexts, especially Python and AWS. I believe that my development helps in the development of other people. I love to learn new concepts, experience new challenges and pass on all the knowledge to impact other people's lives.
+Olá! Se você está procurando um texto para seu readme que inspire entusiastas da programação, aqui vai uma sugestão:
 
-Nowdays, I work in Data Engineering projects, involving data ingestion, operating in a cloud computing environment. In addition, I'm a content creator. I share my learnings and experiences through my YouTube channel and some training projects. I look forward to continuing to evolve my skills with Python and AWS, experimenting with new big data technologies such as Apache Spark and Airflow.
+Bem-vindo ao maravilhoso mundo da programação! Se você está aqui, provavelmente já sabe que a programação é muito mais do que apenas escrever linhas de código. É uma maneira de solucionar problemas, de construir coisas incríveis e de mudar o mundo.
+
+A programação é uma habilidade cada vez mais valorizada e demandada em um mundo cada vez mais digital. Não importa se você está interessado em desenvolvimento web, jogos, aplicativos, inteligência artificial, robótica ou qualquer outra área, a programação é a base para tudo isso.
+
+Claro, não é fácil aprender a programar. Requer dedicação, perseverança e muita prática. Mas a recompensa vale a pena: a capacidade de criar coisas do zero, de automatizar tarefas, de trabalhar em projetos emocionantes e, acima de tudo, de aprender constantemente.
+
+Não importa se você é um iniciante ou um programador experiente, sempre haverá novas tecnologias para aprender, novos desafios para enfrentar e novos projetos para realizar. A programação é uma jornada sem fim, mas é uma jornada emocionante e repleta de possibilidades.
+
+Então, se você está aqui, parabéns por ter dado o primeiro passo em direção a um mundo de infinitas possibilidades. Espero que este readme o ajude a encontrar o caminho para suas paixões e objetivos na programação. Boa sorte e divirta-se!
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postegresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## Details
-- 🔭 I'm working at Accenture.
-- 🌱 I'm improving my habillities with Apache Spark and AWS.
-- 🤗 I like to experience new learnings and collaborate with knowledge sharing
-- 😄 Pronouns: He/Him.
-
+## Detalhes
+ - 🔭 Estou trabalhando no momento? não apenas estudando
+ - 🌱 Estou aprimorando minhas habilidades
+ - 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento
+ - 😄 Pronomes: Ele/Ele.
+ 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
