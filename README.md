@@ -48,7 +48,14 @@ Então, se você está aqui, parabéns por ter dado o primeiro passo em direçã
 
 ## Repositórios principais
 <!-- BLOG-POST-LIST:START -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=incrysy)](https://github.com/FabioSilva11/incrysy)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=COLORON-GAME)](https://github.com/FabioSilva11/COLORON-GAME)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosilva11&repo=IDE-UI-DESIGNER)](https://github.com/FabioSilva11/IDE-UI-DESIGNER)
+
+
 <!-- BLOG-POST-LIST:END -->
 
 ## contatos
