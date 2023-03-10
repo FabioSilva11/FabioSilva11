@@ -1,5 +1,5 @@
 <h1 align="center">fabio silva</h1>
-<h3 align="center">progrmador iniciante</h3>
+<h3 align="center">programador iniciante</h3>
 
 <p align="center">
   <img src="https://github.com/FabioSilva11/FabioSilva11/blob/main/images/BannerGitHub.jpg" alt="Banner's Iury"/>
