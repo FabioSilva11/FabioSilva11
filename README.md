@@ -14,6 +14,10 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 - 🛠️ Experiência em desenvolvimento web, automação e análise de dados
 - 📚 Sempre aprendendo e explorando novas tecnologias
 
+## GitHub Readme LinkedIn
+
+- 💼 [GitHub Readme LinkedIn](https://github.com/yourusername/github-readme-linkedin): Uma ferramenta que gera automaticamente um cartão com informações do seu perfil do LinkedIn para incluir em seu README.
+
 ## Projetos Destacados
 
 - 🚀 [Projeto Legal 1](link_para_o_projeto_1) - Descrição breve do projeto.
@@ -26,7 +30,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 ## Entre em Contato
 
 - 📧 Email: seu_email@example.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/seu-nome/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabio-silva-85829220b/)
 - 🌐 Website: [seusite.com](https://www.seusite.com/)
+- 💰 Patreon: [Patreon](https://www.patreon.com/KiritoDev)
 
 Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar em algum projeto ou apenas bater um papo sobre tecnologia. Vamos criar coisas incríveis juntos!
