@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 
 ## GitHub Readme LinkedIn
 
-- 💼 [GitHub Readme LinkedIn](https://github.com/yourusername/github-readme-linkedin): Uma ferramenta que gera automaticamente um cartão com informações do seu perfil do LinkedIn para incluir em seu README.
+- 💼 [GitHub Readme LinkedIn](https://github.com/FabioSilva11/github-readme-linkedin): Uma ferramenta que gera automaticamente um cartão com informações do seu perfil do LinkedIn para incluir em seu README.
 
 ## Projetos Destacados
 
