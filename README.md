@@ -26,9 +26,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSilva11&layout=compact&theme=dark)
 
-### Atividade de Repositório
-
-![Atividade de Repositório](https://github-readme-stats.vercel.app/api/wakatime?username=FabioSilva11&layout=compact&theme=dark)
 
 ### Seguidores do GitHub
 
