@@ -17,9 +17,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 
 - 💼 [GitHub Readme LinkedIn](https://www.linkedin.com/in/fabio-silva-85829220b/): Uma ferramenta que gera automaticamente um cartão com informações do seu perfil do LinkedIn para incluir em seu README.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FabioSilva11&show_icons=true&theme=dark)
 
 ### Estatísticas de Contribuições
 
@@ -36,10 +33,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 ### Seguidores do GitHub
 
 ![Seguidores do GitHub](https://img.shields.io/github/followers/FabioSilva11?style=social)
-
-### Gráfico de Atividade
-
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=FabioSilva11&bg_color=20232A&color=F8D866&line=44A5C4&point=FFFFFF&area=true&hide_border=true)
 
 ### Troféus do GitHub
 
