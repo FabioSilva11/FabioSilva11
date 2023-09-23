@@ -37,9 +37,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de proje
 
 ## Entre em Contato
 
-- 📧 Email: seu_email@example.com
+- 📧 Email: produtorfabiosilva@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabio-silva-85829220b/)
-- 🌐 Website: [seusite.com](https://www.seusite.com/)
+- 🌐 Website: [seusite.com](https://www.midsetpro.com.br/)
 - 💰 Patreon: [Patreon](https://www.patreon.com/KiritoDev)
 
 Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar em algum projeto ou apenas bater um papo sobre tecnologia. Vamos criar coisas incríveis juntos!
